@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/omkarjagtap1011/leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/omkarjagtap1011/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,17 +50,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
