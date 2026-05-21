@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/omkarjagtap1011/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/omkarjagtap1011/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkarjagtap1011/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/omkarjagtap1011/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/omkarjagtap1011/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/omkarjagtap1011/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
