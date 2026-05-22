@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/omkarjagtap1011/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/omkarjagtap1011/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkarjagtap1011/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/omkarjagtap1011/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
