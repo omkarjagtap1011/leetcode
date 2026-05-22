@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/omkarjagtap1011/leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/omkarjagtap1011/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
