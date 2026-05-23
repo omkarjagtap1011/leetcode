@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
 ## Design
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
