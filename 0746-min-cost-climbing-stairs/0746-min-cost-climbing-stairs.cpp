@@ -1,21 +1,20 @@
 class Solution {
-    int findCost(vector<int>& cost, int index, vector<int>& dp){
-        if(index==0) return cost[0];
-        if(index==1) return cost[1];
-
-        if(dp[index] != -1) return dp[index];
-        int fs = cost[index] + findCost(cost, index-1, dp);
-        int ss = INT_MAX;
-        if(index>1)
-            ss = cost[index] + findCost(cost, index-2, dp);
-
-        return dp[index] = min(fs, ss);
-    }
 public:
     int minCostClimbingStairs(vector<int>& cost) {
         cost.push_back(0);
         int n = cost.size();
         vector<int> dp(n, -1);
-        return findCost(cost, n-1, dp);
+        dp[0] = cost[0];
+        dp[1] = cost[1];
+
+        for(int i=2; i<n; i++){
+            int fs = cost[i] + dp[i-1];
+            int ss = INT_MAX;
+            if(i>1)
+                ss = cost[i] + dp[i-2];
+
+            dp[i] = min(fs, ss);
+        }
+        return dp[n-1];
     }
 };
