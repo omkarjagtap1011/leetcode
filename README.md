@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
@@ -136,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/omkarjagtap1011/leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Matrix
 |  |
 | ------- |
