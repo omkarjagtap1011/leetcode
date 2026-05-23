@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omkarjagtap1011/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarjagtap1011/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
 ## Design
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0061-rotate-list) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
