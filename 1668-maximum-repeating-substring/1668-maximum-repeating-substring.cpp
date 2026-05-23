@@ -1,13 +1,18 @@
 class Solution {
 public:
     int maxRepeating(string sequence, string word) {
-        string repeat = word;
-        int count = 0;
+        int n = sequence.size();
+        int m = word.size();
 
-        while(sequence.contains(repeat)){
-            count++;
-            repeat += word;
+        vector<int> dp(n+1, 0);
+        int ans = 0;
+
+        for(int i=m; i<=n; i++){
+            if(sequence.substr(i-m, m) == word){
+                dp[i] = dp[i - m] + 1;
+                ans = max(ans, dp[i]);
+            }
         }
-        return count;
+        return ans;
     }
 };
