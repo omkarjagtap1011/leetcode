@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omkarjagtap1011/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarjagtap1011/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/omkarjagtap1011/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/omkarjagtap1011/leetcode/tree/master/0788-rotated-digits) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/omkarjagtap1011/leetcode/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
