@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
@@ -132,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/omkarjagtap1011/leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
