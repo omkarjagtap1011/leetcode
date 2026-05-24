@@ -1,23 +1,27 @@
 class Solution {
-    bool recur(int idx, vector<int>& nums, int n, vector<int> &dp){
-        if(idx==n-1) return true;
-        if(dp[idx] != -1) return dp[idx];
-
-        for(int i=1; i<=nums[idx]; i++){
-            if(idx+i < n){
-                bool res = recur(idx+i, nums, n, dp);
-                if(res){
-                    return dp[idx] =  true;
-                } 
-            }else break;
-        }
-
-        return dp[idx] = false;
-    }
 public:
     bool canJump(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n, -1);
-        return recur(0, nums, n, dp);
+        dp[n-1] = true;
+        
+        for(int i=n-2; i>=0; i--){
+            bool flag = false;
+            for(int j=1; j<=nums[i]; j++){
+                if(i+j < n){
+                    bool res = dp[i+j];
+                    if(res){
+                        dp[i] =  true;
+                        flag = true;
+                        break;
+                    }
+                }else break;
+            }
+            if(!flag){
+                dp[i] = false;
+            }
+        }
+
+        return dp[0];
     }
 };
