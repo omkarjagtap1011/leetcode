@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/omkarjagtap1011/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/omkarjagtap1011/leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkarjagtap1011/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkarjagtap1011/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omkarjagtap1011/leetcode/tree/master/0118-pascals-triangle) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkarjagtap1011/leetcode/tree/master/0055-jump-game) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
