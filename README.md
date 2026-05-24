@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/omkarjagtap1011/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
