@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
+| [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/omkarjagtap1011/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
@@ -189,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
