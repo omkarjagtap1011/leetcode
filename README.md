@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
+| [1871-jump-game-vii](https://github.com/omkarjagtap1011/leetcode/tree/master/1871-jump-game-vii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/omkarjagtap1011/leetcode/tree/master/1871-jump-game-vii) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/omkarjagtap1011/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1871-jump-game-vii](https://github.com/omkarjagtap1011/leetcode/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/omkarjagtap1011/leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1871-jump-game-vii](https://github.com/omkarjagtap1011/leetcode/tree/master/1871-jump-game-vii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
