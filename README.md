@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/omkarjagtap1011/leetcode/tree/master/1470-shuffle-the-array) |
 | [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/omkarjagtap1011/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/omkarjagtap1011/leetcode/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
