@@ -2,19 +2,22 @@ class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
         int n = nums.size();
-        vector<int> res(n, 0);
+        map<int, int> freq;
 
         for(int i=0; i<n; i++){
-            int smaller = 0;
-            for(int j = 0; j<n; j++){
-                if(i==j) continue;
-                if(nums[j] < nums[i]){
-                    smaller++;
-                }
-            }
-            res[i] = smaller;
+            freq[nums[i]]++;
         }
 
-        return res;
+        int count=0;
+        for(auto it: freq){
+            freq[it.first] = count;
+            count+=it.second;
+        }
+
+        for(int i=0; i<n; i++){
+            nums[i] = freq[nums[i]];
+        }
+        
+        return nums;
     }
 };
