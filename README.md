@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
+| [1470-shuffle-the-array](https://github.com/omkarjagtap1011/leetcode/tree/master/1470-shuffle-the-array) |
 | [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
