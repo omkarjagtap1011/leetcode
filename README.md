@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/omkarjagtap1011/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/omkarjagtap1011/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/omkarjagtap1011/leetcode/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/omkarjagtap1011/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
 ## Sliding Window
 |  |
