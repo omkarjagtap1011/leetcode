@@ -3,11 +3,11 @@ public:
     vector<int> shuffle(vector<int>& nums, int n) {
         if(n==1) return nums;
 
-        vector<int> res;
+        vector<int> res(n*2);
 
         for(int i=0; i<n; i++){
-            res.push_back(nums[i]);
-            res.push_back(nums[n+i]);
+            res[2*i] = nums[i];
+            res[(2*i) + 1] = nums[n+i];
         }
 
         return res;
