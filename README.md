@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/omkarjagtap1011/leetcode/tree/master/1929-concatenation-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3093-longest-common-suffix-queries](https://github.com/omkarjagtap1011/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3693-climbing-stairs-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/omkarjagtap1011/leetcode/tree/master/1871-jump-game-vii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3093-longest-common-suffix-queries](https://github.com/omkarjagtap1011/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/omkarjagtap1011/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/omkarjagtap1011/leetcode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
