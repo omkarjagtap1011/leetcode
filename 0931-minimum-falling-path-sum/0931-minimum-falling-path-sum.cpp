@@ -1,24 +1,26 @@
 class Solution {
+    int recur(int row, int col, vector<vector<int>>& matrix, int n, vector<vector<int>> &dp){
+        if(col<0 || col>=n) return 100000;
+        if(row==n-1){
+            return matrix[row][col];
+        }
+        if(dp[row][col] != 100000) return dp[row][col];
+
+        int leftdown = matrix[row][col] + recur(row+1, col-1, matrix, n, dp);
+        int down = matrix[row][col] + recur(row+1, col, matrix, n, dp);
+        int rightdown = matrix[row][col] + recur(row+1, col+1, matrix, n, dp);
+
+        return dp[row][col] = min({leftdown, down, rightdown});
+    }
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        vector<int> dp(n, 0);
+        int mini = INT_MAX;
         for(int i=0; i<n; i++){
-            dp[i] = matrix[0][i];
+            vector<vector<int>> dp(n, vector<int>(n, 100000));
+            mini = min(mini, recur(0, i, matrix, n, dp));
         }
 
-        for(int row=1; row<n; row++){
-            vector<int> temp(n, INT_MAX);
-            for(int curcol=0; curcol<n; curcol++){
-                for(int prevcol=0; prevcol<n; prevcol++){
-                    if(abs(prevcol-curcol) <= 1){
-                        int score = matrix[row][curcol] + dp[prevcol];
-                        temp[curcol] = min(temp[curcol], score);
-                    }
-                }
-            }
-            dp = temp;
-        }
-        return *min_element(dp.begin(), dp.end());
+        return mini;
     }
 };
