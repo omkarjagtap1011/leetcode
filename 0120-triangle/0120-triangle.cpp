@@ -24,11 +24,22 @@ public:
         int m = triangle.size();
         int n = triangle[m-1].size();
         vector<vector<int>> dp(m, vector<int>(n, -1));
+        dp[0][0] = triangle[0][0];
 
-        int mini = INT_MAX;
-        for(int i=0; i<n; i++){
-            mini = min(mini, recur(m-1, i, triangle, dp));
+        for(int row=1; row<m; row++){
+            int len = triangle[row].size();
+            
+
+            for(int j=0; j<len; j++){
+                int mini = INT_MAX;
+
+                if(j<len-1) mini = min(mini, dp[row-1][j]);
+
+                if(j-1>=0) mini = min(mini, dp[row-1][j-1]);
+
+                dp[row][j] = triangle[row][j] + mini;
+            }
         }
-        return mini;
+        return *min_element(dp[m-1].begin(), dp[m-1].end());
     }
 };
