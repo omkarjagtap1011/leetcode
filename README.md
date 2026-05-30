@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/omkarjagtap1011/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkarjagtap1011/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/omkarjagtap1011/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkarjagtap1011/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/omkarjagtap1011/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/omkarjagtap1011/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omkarjagtap1011/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/omkarjagtap1011/leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/omkarjagtap1011/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
