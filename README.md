@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/omkarjagtap1011/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1463-cherry-pickup-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/omkarjagtap1011/leetcode/tree/master/1470-shuffle-the-array) |
 | [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
+| [1463-cherry-pickup-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1696-jump-game-vi](https://github.com/omkarjagtap1011/leetcode/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/omkarjagtap1011/leetcode/tree/master/1871-jump-game-vii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/omkarjagtap1011/leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/omkarjagtap1011/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1463-cherry-pickup-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
