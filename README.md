@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/omkarjagtap1011/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/omkarjagtap1011/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/omkarjagtap1011/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/omkarjagtap1011/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/omkarjagtap1011/leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/omkarjagtap1011/leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/omkarjagtap1011/leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
