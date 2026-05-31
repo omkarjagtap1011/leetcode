@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkarjagtap1011/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/omkarjagtap1011/leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/omkarjagtap1011/leetcode/tree/master/1929-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/omkarjagtap1011/leetcode/tree/master/2126-destroying-asteroids) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3093-longest-common-suffix-queries](https://github.com/omkarjagtap1011/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/omkarjagtap1011/leetcode/tree/master/3161-block-placement-queries) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
 | [1340-jump-game-v](https://github.com/omkarjagtap1011/leetcode/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkarjagtap1011/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2126-destroying-asteroids](https://github.com/omkarjagtap1011/leetcode/tree/master/2126-destroying-asteroids) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omkarjagtap1011/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkarjagtap1011/leetcode/tree/master/0055-jump-game) |
+| [2126-destroying-asteroids](https://github.com/omkarjagtap1011/leetcode/tree/master/2126-destroying-asteroids) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/omkarjagtap1011/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
