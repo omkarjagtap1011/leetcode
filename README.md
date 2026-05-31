@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/omkarjagtap1011/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omkarjagtap1011/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/omkarjagtap1011/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/omkarjagtap1011/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/omkarjagtap1011/leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/omkarjagtap1011/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/omkarjagtap1011/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/omkarjagtap1011/leetcode/tree/master/0645-set-mismatch) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/omkarjagtap1011/leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/omkarjagtap1011/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/omkarjagtap1011/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/omkarjagtap1011/leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/omkarjagtap1011/leetcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/omkarjagtap1011/leetcode/tree/master/1668-maximum-repeating-substring) |
