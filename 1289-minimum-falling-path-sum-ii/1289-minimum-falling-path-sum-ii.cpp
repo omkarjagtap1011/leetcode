@@ -1,24 +1,20 @@
 class Solution {
 public:
-    int minFallingPathSum(vector<vector<int>>& grid) {
-        int n = grid.size();
-        vector<int> dp(n, 0);
-        for(int i=0; i<n; i++){
-            dp[i] = grid[0][i];
-        }
+    int minFallingPathSum(vector<vector<int>>& matrix) {
+        int n = matrix.size();
 
-        for(int row=1; row<n; row++){
-            vector<int> temp(n, INT_MAX);
-            for(int curcol=0; curcol<n; curcol++){
-                for(int prevcol=0; prevcol<n; prevcol++){
-                    if(prevcol!=curcol){
-                        int score = grid[row][curcol] + dp[prevcol];
-                        temp[curcol] = min(temp[curcol], score);
+        for(int i=n-2; i>=0; i--){
+            for(int j=0; j<n; j++){
+                int mini = INT_MAX;
+                for(int prev=0; prev<n; prev++){
+                    if(prev!=j){
+                        mini = min(mini, matrix[i+1][prev]);
                     }
                 }
+                matrix[i][j] += mini;
             }
-            dp = temp;
         }
-        return *min_element(dp.begin(), dp.end());
+
+        return *min_element(matrix[0].begin(), matrix[0].end());
     }
 };
