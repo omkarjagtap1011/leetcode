@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/omkarjagtap1011/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/omkarjagtap1011/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/omkarjagtap1011/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/omkarjagtap1011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/omkarjagtap1011/leetcode/tree/master/0392-is-subsequence) |
@@ -237,9 +238,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/omkarjagtap1011/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/omkarjagtap1011/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/omkarjagtap1011/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/omkarjagtap1011/leetcode/tree/master/3161-block-placement-queries) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/omkarjagtap1011/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
